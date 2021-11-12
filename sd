@@ -1,0 +1,32 @@
+[33me694e6c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;33mtag: v1.0[m[33m, [m[1;32mdev[m[33m)[m HEAD@{0}: checkout: moving from e694e6c51db00d18b5e5289cc077b89efc466490 to master
+[33me694e6c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;33mtag: v1.0[m[33m, [m[1;32mdev[m[33m)[m HEAD@{1}: checkout: moving from master to V1.0
+[33me694e6c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;33mtag: v1.0[m[33m, [m[1;32mdev[m[33m)[m HEAD@{2}: checkout: moving from dev to master
+[33me694e6c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;33mtag: v1.0[m[33m, [m[1;32mdev[m[33m)[m HEAD@{3}: checkout: moving from master to dev
+[33me694e6c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;33mtag: v1.0[m[33m, [m[1;32mdev[m[33m)[m HEAD@{4}: checkout: moving from dev to master
+[33me694e6c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;33mtag: v1.0[m[33m, [m[1;32mdev[m[33m)[m HEAD@{5}: checkout: moving from master to dev
+[33me694e6c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;33mtag: v1.0[m[33m, [m[1;32mdev[m[33m)[m HEAD@{6}: checkout: moving from dev to master
+[33me694e6c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;33mtag: v1.0[m[33m, [m[1;32mdev[m[33m)[m HEAD@{7}: checkout: moving from master to dev
+[33me694e6c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;33mtag: v1.0[m[33m, [m[1;32mdev[m[33m)[m HEAD@{8}: checkout: moving from dev to master
+[33me8c4423[m HEAD@{9}: checkout: moving from master to dev
+[33me694e6c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;33mtag: v1.0[m[33m, [m[1;32mdev[m[33m)[m HEAD@{10}: merge release: Fast-forward
+[33me8c4423[m HEAD@{11}: checkout: moving from release to master
+[33me694e6c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;33mtag: v1.0[m[33m, [m[1;32mdev[m[33m)[m HEAD@{12}: commit: 字母a
+[33me8c4423[m HEAD@{13}: checkout: moving from master to release
+[33me8c4423[m HEAD@{14}: checkout: moving from release to master
+[33me8c4423[m HEAD@{15}: checkout: moving from dev to release
+[33me8c4423[m HEAD@{16}: checkout: moving from master to dev
+[33me8c4423[m HEAD@{17}: reset: moving to HEAD~2
+[33m3bd2647[m HEAD@{18}: commit: 数字3
+[33m531d8af[m HEAD@{19}: commit: 数字2
+[33me8c4423[m HEAD@{20}: reset: moving to HEAD~3
+[33maaa8aad[m HEAD@{21}: commit: 数字4
+[33m686f5a2[m HEAD@{22}: commit: 数字2
+[33mbcca023[m HEAD@{23}: reset: moving to HEAD^^
+[33m392f49d[m HEAD@{24}: commit: 数字4
+[33mb15a5f0[m HEAD@{25}: reset: moving to HEAD^
+[33m6b4a724[m HEAD@{26}: commit: 数字4
+[33mb15a5f0[m HEAD@{27}: commit: 数字3
+[33mbcca023[m HEAD@{28}: commit: 数字2
+[33me8c4423[m HEAD@{29}: reset: moving to HEAD^
+[33mf6def1b[m HEAD@{30}: commit: 数字2
+[33me8c4423[m HEAD@{31}: commit (initial): 数字1
