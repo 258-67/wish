@@ -30,6 +30,6 @@ int main()
 				set1+=PI/60;
 			}
 	_getch();
-	closegraph;
+	closegraph();
 	return(0);
 }

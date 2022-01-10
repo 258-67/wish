@@ -19,6 +19,6 @@ int main()
 	setfillcolor(RGB(0,0,0));
 	solidpie(left,top,right,bottom,PI*3/2,PI*2);
 	_getch();
-	closegraph;
+	closegraph();
 	return(0);
 }

@@ -16,6 +16,6 @@ int main()
 		line(t,i*t,19*t,i*t);
 	}
 	_getch();
-	closegraph;
+	closegraph();
 	return(0);
 }

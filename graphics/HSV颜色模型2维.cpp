@@ -18,5 +18,6 @@ int main()
 		solidpie(left,top,right,bottom,i*PI/180,(i+step)*PI/180);
 	}
 	_getch();
+	closegraph();
 	return(0);
 }

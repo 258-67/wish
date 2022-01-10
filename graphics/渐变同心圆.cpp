@@ -14,6 +14,6 @@ int main()
 	circle(300,300,255-radius);
 	}
 	_getch();
-	closegraph;
+	closegraph();
 	return(0);
 }

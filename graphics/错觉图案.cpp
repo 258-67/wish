@@ -1,4 +1,0 @@
-RGB(0,240,220)ÇàÉ«
-WHITE
-RED
-BLACK

@@ -14,6 +14,6 @@ int main()
 			solidpie(left,top,right,bottom,0,PI*2);
 		}
 		_getch();
-		closegraph;
+		closegraph();
 		return(0);
 }

@@ -68,6 +68,6 @@ int main()
 		}
 	}
 	_getch();
-	closegraph;
+	closegraph();
 	return(0);
 }
